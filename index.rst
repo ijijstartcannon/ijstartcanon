@@ -4,7 +4,7 @@
 ij.start.canon || ij start canon setup || ij start canon
 #############
 
-Now, via ij.start.canon, you can set up your new Canon printer just in a few easy steps. We provide you a complete step-by-step setup guide to making you understand the printer setup process in the simplest way.Also, in this blog, you will get to know how you can download and install your Canon printer. For more guidance, you are recommended to go to the official canon website ij.start.canon to avoid future difficulties.
+Now, via `ij.start.canon <https://ijijstartcannon.readthedocs.io/en/latest/index.html>`_, you can set up your new Canon printer just in a few easy steps. We provide you a complete step-by-step setup guide to making you understand the printer setup process in the simplest way.Also, in this blog, you will get to know how you can download and install your Canon printer. For more guidance, you are recommended to go to the official canon website ij.start.canon to avoid future difficulties.
 
 |
 
@@ -27,8 +27,8 @@ In the latest Canon model you won’t find any CD however, if you have an older 
 
 * Set up the Canon printer and open a web browser on your computer device.
 * Visit ij.start.canon site and provide your Canon model number when asked.
-* You may also choose from bottom options and hit the “click this link” from the display.
-* Start downloading Canon drivers and software from the same https//ij.start.canon page.
+* You may also choose from bottom options and hit the **“click this link”** from the display.
+* Start downloading Canon drivers and software from the same `ij.start.canon <https://ijijstartcannon.readthedocs.io/en/latest/index.html>`_ page.
 * Now, double click on the software and install for your Canon product.
 
 *************
