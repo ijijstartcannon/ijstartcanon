@@ -4,7 +4,7 @@
 ij.start.canon || ij start canon setup || ij start canon
 #############
 
-Now, via ij.start.canon, you can set up your new Canon PIXMA printer just in a few easy steps. We provide you a complete step-by-step setup guide to making you understand the printer setup process in the simplest way.Also, in this blog, you will get to know how you can download and install your Canon printer. For more guidance, you are recommended to go to the official canon website ij.start.canon to avoid future difficulties.
+Now, via ij.start.canon, you can set up your new Canon printer just in a few easy steps. We provide you a complete step-by-step setup guide to making you understand the printer setup process in the simplest way.Also, in this blog, you will get to know how you can download and install your Canon printer. For more guidance, you are recommended to go to the official canon website ij.start.canon to avoid future difficulties.
 
 |
 
