@@ -9,7 +9,7 @@ Now, via ij.start.canon, you can set up your new Canon PIXMA printer just in a f
 |
 
 
-.. image:: stars.jpg
+.. image:: get-started-button.png
     :width: 300px
     :align: center
     :height: 100px
